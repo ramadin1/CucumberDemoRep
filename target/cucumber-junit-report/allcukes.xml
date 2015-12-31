@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.337032">
+<testcase classname="Addition" name="Add one two numbers_2" time="0.318628">
+<system-out><![CDATA[Given I have entered first field "1" into the calculator....................passed
+And I have entered second field "2" into the calculator.....................passed
+When I press "addition" on..................................................passed
+Then Result should be "3" on the screen.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Addition" name="Add one two numbers_1" time="0.018404">
+<system-out><![CDATA[Given I have entered first field "2" into the calculator....................passed
+And I have entered second field "2" into the calculator.....................passed
+When I press "subtraction" on...............................................passed
+Then Result should be "4" on the screen.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
