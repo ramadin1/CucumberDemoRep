@@ -167,7 +167,7 @@ formatter.match({
   "location": "Math.i_have_entered_firs_field_number1_into_the_calculator(int)"
 });
 formatter.result({
-  "duration": 302188539,
+  "duration": 294201716,
   "status": "passed"
 });
 formatter.match({
@@ -180,7 +180,7 @@ formatter.match({
   "location": "Math.i_have_entered_second_field_number2_into_the_calculator(int)"
 });
 formatter.result({
-  "duration": 4051428,
+  "duration": 5430591,
   "status": "passed"
 });
 formatter.match({
@@ -193,7 +193,7 @@ formatter.match({
   "location": "Math.i_press_add(String,DataTable)"
 });
 formatter.result({
-  "duration": 7870524,
+  "duration": 7840276,
   "status": "passed"
 });
 formatter.match({
@@ -206,7 +206,7 @@ formatter.match({
   "location": "Math.result_should_be_3_on_the_screen(int)"
 });
 formatter.result({
-  "duration": 4517374,
+  "duration": 4626082,
   "status": "passed"
 });
 formatter.scenario({
@@ -281,7 +281,7 @@ formatter.match({
   "location": "Math.i_have_entered_firs_field_number1_into_the_calculator(int)"
 });
 formatter.result({
-  "duration": 4116072,
+  "duration": 3918858,
   "status": "passed"
 });
 formatter.match({
@@ -294,7 +294,7 @@ formatter.match({
   "location": "Math.i_have_entered_second_field_number2_into_the_calculator(int)"
 });
 formatter.result({
-  "duration": 3661007,
+  "duration": 4417435,
   "status": "passed"
 });
 formatter.match({
@@ -307,7 +307,7 @@ formatter.match({
   "location": "Math.i_press_add(String,DataTable)"
 });
 formatter.result({
-  "duration": 5391023,
+  "duration": 5771083,
   "status": "passed"
 });
 formatter.match({
@@ -320,7 +320,7 @@ formatter.match({
   "location": "Math.result_should_be_3_on_the_screen(int)"
 });
 formatter.result({
-  "duration": 5236135,
+  "duration": 3595647,
   "status": "passed"
 });
 });
